@@ -1,6 +1,6 @@
 # notionshell
 
-Another partially implemented notion command line clients.
+Another partially-implemented [notion](https://www.notion.so/) command line client.
 
 * Not feature complete, *partially implemented*
 * Uses official notion library
@@ -23,6 +23,7 @@ Hopefully this is quite easy to extend.
 
 # Prior work
 
+* Notion is broadly used proprietary software. There are open source alternatives such as org-mode for emacs, wikis such as mediawiki, or similar clients like obsidian or logseq. Similar propietary tools include roam research and at a stretch blogging tools like wordpress, medium or substack.
 * [notions](https://pypi.org/project/notions/) Could upload pages or block, was not using notion library
 * [notion-cli](https://github.com/fieldflat/notion-cli-py) Could not list databases, was not using notion library
 * [clotion](https://github.com/psych0der/clotion) In typescript, no stars on github at time of writing
